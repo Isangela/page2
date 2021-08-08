@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+<index.get("Donna").onsuccess = function(event) {
+  console.log("Donna's SSN is " + event.target.result.ssn);>
+
+<form action="action_page.php" method="post">
+  <div class="imgcontainer">
+    <img src="profile.JPG" alt="Profile" class="profile">
+  </div>
+
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <button type="submit">Login</button>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1">
+    <button type="button" class="cancelbtn">Cancel</button>
+    <span class="psw">Forgot <a href="#">password?</a></span>
+  </div>
+</form>
+
+    <title>This is the story of how I learned to code</title>
+  </head>
+  <body>
+
+<h1>This is the story of how I learned to code</h1>
+
+
+<style>
+table, td, th {  
+  border: 0px solid #ddd;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+}
+
+th, td {
+  padding: 2px;
+}
+</style>
+</head>
+<body>
+
+
+<table>
+  <tr>
+    <th><img src="ian-kiragu-unsplash.jpg" height="450" alt="women with hands in the air"> <p><span>Photo by <a href="https://unsplash.com/@_kiragu_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ian Kiragu</a> on <a href="/s/photos/black-woman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span></p> </th>
+    <th><img src="Menwritingatlaptop.jpg" height="400" alt="Men writing at laptop"><p><span>Photo by <a href="https://unsplash.com/@ikukevk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kevin Ku</a> on <a href="https://unsplash.com/s/photos/web-development?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></p> </th>
+  </tr>
+  <tr>
+    <td><img src="douglas-sanchez-fJ5OvXFRGsI-unsplash.jpg" height="350" alt="Futuristic building"> <p><span> Photo by <a href="https://unsplash.com/@updoug?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" >Douglas Sanchez</a> on <a href="/s/photos/futuristic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" >Unsplash</a></span></p></td>
+    <td><img src="estee-janssens-unsplash.jpg" height="350" alt="Notebook"> <p><span>Photo by <a href="https://unsplash.com/@esteejanssens?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Estée Janssens</a> on <a href="/s/photos/notebook?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span></p></td>
+  </tr>
+  <tr>
+    <td><img src="igor-miske-unsplash.jpg" height="340" alt="Laptop open on a website"> <p><span>Photo by <a href="https://unsplash.com/@igormiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Igor Miske</a> on <a href="/s/photos/websites?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span></p></td>
+    <td><img src="marvin-meyer-unsplash.jpg" height="340" alt="laptops and someone typing on a laptop"> <p><span>Photo by <a href="https://unsplash.com/@marvelous?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marvin Meyer</a> on <a href="/s/photos/websites?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span></p></td>
+  </tr>
+</table>
+    
+
+
+
+
+
+<p><em>You can achieve anything you set your mind into!</em> I decided I would learn how to code but because of some events I kept procrastinating. One day I will be coding like a pro and I will look bak at this moment and feel proud :-). In this page I will be describing my journey and documenting my findings. 
+Where did I start you ask?</p>  
+
+<p>Here's a list </p>
+
+<ul> 
+  <li>I started reading books</li>
+  <li>I reached out for help</li>
+  <li>I started looking for ways to practice</li>
+  <li>I started creating stuff</li>
+</ul>
+
+<p><h3>What are my next steps you ask?<h3></p>
+
+<p><h4>
+<ol>
+<li> <em>Practice,practice, practice</em>
+<li> Watch a lot of videos and read a lot of books
+<li> Keep an open mind
+<li> Check in with my mentor
+<li> Fail and persist </li>
+</ol><h4></p>
+
+<link rel = "stylesheet"
+type = "text/css"
+href = "myStyle.css" />
+
+
+</body>
+
+</html>
+
+<html>
+  <head>
+    <style>
+      body {
+        background-color: #1A1AFF;
+      }    
+</html>
